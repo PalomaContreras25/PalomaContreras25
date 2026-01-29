@@ -17,10 +17,12 @@ My work focuses on water insecurity, chronic stress, and health, using a biocult
 **1) Water Insecurity and Stress in Iztapalapa, Mexico City**
 
 I lead a project examining household water access, water management practices, and emotional stress, emphasizing lived experiences and public health implications of intermittent water access.
+Progress on this topic can be found [here](https://github.com/lasisilab/QUAIL-Mex)
 
 **2) Chronic stress Biomarkers (Hair Cortisol)**
 
 I conduct laboratory-based research quantifying hair cortisol concentrations as a biomarker of chronic stress. In particular, I focus on methods development and reproducibility in ELISA-based data generation.
+My work on this topic can be found [here](https://github.com/lasisilab/HairCortMethods)
 
 **3) Epigenetics markers of stress: DNA methylation on stress-related genes**
 
