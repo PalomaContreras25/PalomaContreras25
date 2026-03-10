@@ -30,14 +30,9 @@ I am generating epigenetic data to assess questions about how environmental stre
 
 
 
-### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalomaContreras25&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaContreras25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
 
-<div align="center">
 
 ---
 
